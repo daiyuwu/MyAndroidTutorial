@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Android Tutorial</string>
+    <string name="title">Title</string>
+    <string name="enter_title">Enter Title</string>
+    <string name="content">Content</string>
+    <string name="enter_content">Enter Content</string>
+</resources>
